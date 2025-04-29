@@ -1,5 +1,5 @@
 # Looping-Construct-with-Floating-Point-Numbers
-Floating Point Statistics is a Python program that reads five floating-point numbers from the user, calculates the total, average, maximum, minimum, and interest at 20%, and displays the results. It uses input validation, a while-loop, and formatted output.
+Floating Point Statistics is a JAVA program that reads five floating-point numbers from the user, calculates the total, average, maximum, minimum, and interest at 20%, and displays the results. It uses input validation, a while-loop, and formatted output.
 
 # Screenshots
 <img width="1706" alt="Screenshot 2025-04-29 at 2 19 18 PM" src="https://github.com/user-attachments/assets/372a8d1f-2131-4c58-b23f-b5ba9ae4ff22" />
